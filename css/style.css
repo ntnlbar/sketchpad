@@ -1,0 +1,27 @@
+#button {
+  width: 300px;
+  height: 40px;
+  background-color: #c0c0c0;
+  margin: 10px auto;
+  font-size: 30px;
+  font-family: cursive, serif;
+  border-radius: 5px;
+  border: 1px solid black;
+  text-align: center;
+}
+#container {
+    background-color: red;
+    width: 800px;
+    height: 800px;
+    margin: 10px auto;
+}
+.unit {
+    background-color: blue;
+    margin: 1px;
+    display: inline-block;
+    float: left
+}
+
+.color {
+  background-color: yellow;
+}
