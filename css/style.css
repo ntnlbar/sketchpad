@@ -8,15 +8,16 @@
   border-radius: 5px;
   border: 1px solid black;
   text-align: center;
+
 }
 #container {
-    background-color: red;
+    background-color: black;
     width: 800px;
     height: 800px;
     margin: 10px auto;
 }
 .unit {
-    background-color: blue;
+    background-color: white;
     margin: 1px;
     display: inline-block;
     float: left
